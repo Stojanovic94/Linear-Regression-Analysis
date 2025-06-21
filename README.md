@@ -2,6 +2,12 @@
 
 This repository demonstrates how to apply linear regression for analyzing relationships between variables using both synthetic and real-world datasets.
 
+![](image-1.png)
+![](image-2.png)
+![](image-3.png)
+![](image-4.png)
+![](image-5.png)
+
 ## Features
 
 - Simple linear regression to predict apartment prices based on square footage
