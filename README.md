@@ -24,9 +24,7 @@ This repository demonstrates how to apply linear regression for analyzing relati
 - scikit-learn
 - kagglehub (for fetching dataset from Kaggle)
 
-## How to Run
-
-1. Install dependencies:
+## Install dependencies
 
 ```bash
 pip install pandas matplotlib seaborn scikit-learn kagglehub
